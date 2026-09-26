@@ -1,0 +1,8 @@
+[
+  {
+    "label": "Run current Python file",
+    "command": "python \"$ZED_FILE\"",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "save": "current"
+  }
+]
