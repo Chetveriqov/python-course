@@ -1,10 +1,12 @@
-def add(a, b):
-    result = a + b
-    return result
+from math import sqrt
 
+name = "Alex"
+print(name)
 
-x = 10
-y = 20
-total = add(x, y)
+age = sqrt(25)
+print(age)
 
-print(total)
+name = "Vesya"
+print(name + str(age))
+name = "Alex"
+print(name + str(age))

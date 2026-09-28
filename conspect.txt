@@ -1,5 +1,14 @@
 Дальше твой обычный цикл будет короткий:
-
 git add .
 git commit -m "описание изменений"
 git push
+
+
+venv:
+Создать виртуальное окружение
+В папке проекта:
+python3 -m venv .venv
+
+Активировать venv на macOS / Linux
+source .venv/bin/activate
+
