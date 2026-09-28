@@ -12,4 +12,7 @@ python3 -m venv .venv
 Активировать venv на macOS / Linux
 source .venv/bin/activate
 
-Меняли тут
+⌘ K        → открыть Commit
+⌥⌘L        → форматировать код
+⌃⇧R        → запустить текущий файл
+⌥ Enter    → посмотреть исправления
