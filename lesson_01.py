@@ -6,7 +6,7 @@ print(name)
 age = sqrt(25)
 print(age)
 
-name = "Vesya"
+name = "Vesya "
 print(name + str(age))
 name = "Alex"
 print(name + str(age))
